@@ -2,6 +2,7 @@ var booleanoChiusura = false;
 //in questa lista inserisco i casi già testati 
 let listaTestati = [];
 let chiamateInsert = 0;
+//commento per test git
 
 function avviaContaCasi(){
     //se riesco ad eseguire la funzione correttamente:
